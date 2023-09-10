@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats-es8h.vercel.app/api?username=nsyifa)](https://github.com/nsyifa/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-es8h.vercel.app/api?username=nsyifa)](https://github.com/anugraghazra/github-readme-stats)
 
 <!--
 **nsyifa/nsyifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
